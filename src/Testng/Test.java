@@ -16,6 +16,7 @@ public @interface Test
 			names.add("Massachusettes");
 			names.add("California");
 			names.add("America");
+			System.out.println("hello");
 			int count=0;
 			
 			for(String nm : names)

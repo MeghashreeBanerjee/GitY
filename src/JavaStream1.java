@@ -14,6 +14,9 @@ public class JavaStream1
 		names.add("Massachusettes");
 		names.add("California");
 		names.add("America");
+		names.add("Asia");
+		names.add("Africa");
+				
 		int count=0;
 		
 		for(String nm : names)
@@ -27,6 +30,7 @@ public class JavaStream1
 		}
 		
 		System.out.println(count);
+		System.out.println("hi");
 	}
 	
 
