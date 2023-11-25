@@ -9,6 +9,7 @@ public class testBranch1 {
 	{
 		System.out.println("hello: branch develop 1.0");
 		System.out.println("hello: branch develop 1.1");
+		System.out.println("hello: branch develop 1.2");
 
 	}
 
