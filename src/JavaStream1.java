@@ -17,6 +17,7 @@ public class JavaStream1
 		names.add("Asia");
 		names.add("Africa");
 		names.add("India");
+		names.add("Gaza");
 				
 		int count=0;
 		
