@@ -32,6 +32,7 @@ public class JavaStream1
 		
 		System.out.println(count);
 		System.out.println("hi");
+		System.out.println("hello");
 	}
 	
 
